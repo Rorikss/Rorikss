@@ -70,9 +70,9 @@
 
 <div align="left">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Rorikss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Rorikss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rorikss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph">
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=Rorikss&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=Rorikss&theme=buefy&hide_border=true" media="(prefers-color-scheme: light)">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Rorikss&theme=default&hide_border=true" height="150" alt="stats graph">
   </picture>
 </div>
 
