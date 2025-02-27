@@ -2,21 +2,21 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    <div align="left">
+<img align="right" height="128" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5NjZrNmhsYXJnMXB5Z3ByNHNra3I1bHFrcGNjNXBsamVzZmp0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif"/>
+ 
+
+<div align="left">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Rorikss.Rorikss&left_color=rebeccapurple&right_color=hotpink&left_text=Views" />
-    </div>
-    <p align="left">
+</div>
+
+<div align="left">
+<p align="left">
       ✨ Creating bugs since 2020...<br>
       📚 ITMO Software Engineering student & C++ mentor<br>
       🏙 Currently living and studying in Saint-Petersburg
-    </p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5NjZrNmhsYXJnMXB5Z3ByNHNra3I1bHFrcGNjNXBsamVzZmp0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif" alt="GIF" style="max-width: 20%; height: auto;">
-  </div>
+</p>
 </div>
+
 
 ###
 
