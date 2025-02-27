@@ -28,7 +28,7 @@
   <a href="https://t.me/Rorikss" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="[avanta.sae@gmail.com](https://mail.google.com/mail/u/0/?hl=ru&tf=cm&fs=1&to=avanta.sae@gmail.com)" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?hl=ru&tf=cm&fs=1&to=avanta.sae@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/rorikss?igsh=MXNhNm92dzNwM3E1eA==" target="_blank">
