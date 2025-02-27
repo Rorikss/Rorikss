@@ -2,14 +2,21 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rorikss.Rorikss&left_color=rebeccapurple&right_color=hotpink&left_text=Views"  />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <div align="left">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Rorikss.Rorikss&left_color=rebeccapurple&right_color=hotpink&left_text=Views" />
+    </div>
+    <p align="left">
+      ✨ Creating bugs since 2020...<br>
+      📚 ITMO Software Engineering student & C++ mentor<br>
+      🏙 Currently living and studying in Saint-Petersburg
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5NjZrNmhsYXJnMXB5Z3ByNHNra3I1bHFrcGNjNXBsamVzZmp0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;">
+  </div>
 </div>
-
-###
-
-<p align="left">✨ Creating bugs since 2020...<br>📚 ITMO Software Engineering student & C++ mentor<br>🏙 Currently living and studying in Saint-Petersburg</p>
-
 ###
 
 <h3 align="left">Contacts</h3>
