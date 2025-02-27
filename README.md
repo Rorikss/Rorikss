@@ -1,8 +1,10 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Hi! My name is Aurora Stepaniuk</h2>
 
 ###
 
-<p align="left">Hi! My name is Aurora Stepaniuk</p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rorikss.Rorikss&left_color=rebeccapurple&right_color=hotpink&left_text=Views"  />
+</div>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<h4/ align="left">Contacts</h4>
+<h3 align="left">Contacts</h3>
 
 ###
 
@@ -28,7 +30,7 @@
 
 ###
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -44,7 +46,7 @@
 
 ###
 
-<h4 align="left">Stats</h4>
+<h3 align="left">Stats</h3>
 
 ###
 
@@ -65,5 +67,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Rorikss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph">
   </picture>
 </div>
+###
 
 ###
