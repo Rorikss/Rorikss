@@ -13,10 +13,11 @@
       🏙 Currently living and studying in Saint-Petersburg
     </p>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: right;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5NjZrNmhsYXJnMXB5Z3ByNHNra3I1bHFrcGNjNXBsamVzZmp0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 ###
 
 <h3 align="left">Contacts</h3>
