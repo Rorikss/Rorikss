@@ -1,14 +1,21 @@
 <h2 align="left">Hi! My name is Aurora Stepaniuk</h2>
 
 ###
+<img align="right" height="128" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF5NjZrNmhsYXJnMXB5Z3ByNHNra3I1bHFrcGNjNXBsamVzZmp0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif"/>
+ 
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rorikss.Rorikss&left_color=rebeccapurple&right_color=hotpink&left_text=Views"  />
 </div>
 
-###
-
-<p align="left">✨ Creating bugs since 2020...<br>📚 ITMO Software Engineering student & C++ mentor<br>🏙 Currently living and studying in Saint-Petersburg <br>🙊 Speaking Russian native and English C2</p>
+<div align="left">
+<p align="left">
+      ✨ Creating bugs since 2020...<br>
+      📚 ITMO Software Engineering student & C++ mentor<br>
+      🏙 Currently living and studying in Saint-Petersburg<br>
+     🙊 Speaking Russian native and English C2
+</p>
+</div>
 
 ###
 
