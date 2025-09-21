@@ -12,6 +12,7 @@
 <p align="left">
       ✨ Creating bugs since 2020...<br>
       📚 ITMO Software Engineering student && C++ mentor<br>
+      👩🏼‍💻 Yandex Intern. Back-End C++ <br>
       🏙 Currently living and studying in Saint-Petersburg<br>
      🙊 Speaking Russian native and English C2
 </p>
